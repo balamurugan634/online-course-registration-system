@@ -5,4 +5,3 @@
 ![Screenshot 2024-04-01 004551](https://github.com/balamurugan634/online-course-registration-system/assets/113114129/48b535d7-14ea-4f28-a483-f5175bf1872b)
 ![Screenshot 2024-04-01 004653](https://github.com/balamurugan634/online-course-registration-system/assets/113114129/1a6bf938-659c-4e85-bf05-b984112921a9)
 ![Screenshot 2024-04-01 004711](https://github.com/balamurugan634/online-course-registration-system/assets/113114129/2677f3bc-1663-42d5-ba1c-68b8b00ed976)
-b1d1d-960a-4f88-85af-bc7280c64a50)
